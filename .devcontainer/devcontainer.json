@@ -19,7 +19,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"justjavac.vscode-deno-extensionpack"
+		        "denoland.vscode-deno",
+				"ms-vscode.vscode-typescript-tslint-plugin",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
