@@ -1,5 +1,5 @@
 {
-	"name": "Node.js & TypeScript",
+	"name": "Rayz via Node.js & TypeScript",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye",
 	"features": {
@@ -20,8 +20,7 @@
 		"vscode": {
 			"extensions": [
 		        "denoland.vscode-deno",
-				"ms-vscode.vscode-typescript-tslint-plugin",
-				"esbenp.prettier-vscode"
+				"ms-vscode.vscode-typescript-tslint-plugin"
 			]
 		}
 	}

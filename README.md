@@ -4,12 +4,11 @@ An implementation of a ray tracer based on the ["The Ray Tracer Challenge"](http
 
 ## Set Up
 
-1. `source venv/bin/activate`
-1. `pip install -r requirements.txt`
+1. See `.devcontainer/devcontainer.json`
 
 ## Running
 
-`python -m rayz`
+`deno app.ts`
 
 ## Testing
 
