@@ -19,8 +19,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "denoland.vscode-deno",
-        "ms-vscode.vscode-typescript-tslint-plugin"
+        "denoland.vscode-deno"
       ]
     }
   }
