@@ -3,6 +3,9 @@
     "lib": ["deno.ns", "deno.unstable"]
   },
   "imports": {
-    "@std/testing": "jsr:@std/testing@^1.0.3"
+    "@std/testing": "jsr:@std/testing/bdd"
+  },
+  "tasks": {
+    "dev": "deno run --watch app.ts"
   }
 }

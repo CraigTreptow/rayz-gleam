@@ -10,7 +10,7 @@ book in Python.
 
 ## Running
 
-`deno app.ts`
+`deno main.ts`
 
 ## Testing
 
