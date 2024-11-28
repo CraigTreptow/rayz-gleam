@@ -1,8 +1,8 @@
-# Rayz-ts
+# Rayz-gleam
 
 An implementation of a ray tracer based on the
 ["The Ray Tracer Challenge"](https://pragprog.com/book/jbtracer/the-ray-tracer-challenge)
-book in Python.
+book in Gleam.
 
 ## Set Up
 
